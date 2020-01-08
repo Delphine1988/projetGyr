@@ -1,0 +1,70 @@
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Play', sans-serif;
+    margin-top: 500px;
+    margin-bottom: 500px;
+}
+/* HEADER */
+header{
+    position: sticky;top: 0;position: fixed;
+}
+.logonav{
+    max-width: 100px;
+    max-height: 150px;
+}
+
+#contentcollapse a{
+    text-decoration: none;
+    color: white;
+    font-size: 20pt;
+}
+.navbar-toggler-icon{
+    position: relative; right: 0;
+}
+
+/* FOOTER */
+
+#footer{
+    background-color: black;
+    text-align: center;
+    position: absolute;bottom: 0;position: fixed;
+}
+
+.logofoot{
+    max-width: 50px;
+    max-height: 100px;
+}
+.imagefacebook {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.imageinstagram {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.imagetwitter{
+    max-width: 50px;
+    max-height: 50px;
+}
+#mentions a{
+    text-decoration: none;
+    color: white;
+    font-size: 15pt;
+}
+
+/*TITRE A PROPOS*/
+.titreapropos{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+/* CONCEPT ENTREPRISE*/
+
+.card-img{
+  opacity: 0.4;   
+}
